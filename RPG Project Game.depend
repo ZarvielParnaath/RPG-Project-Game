@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1538807565 source:c:\users\zarviel\contacts\desktop\rpg project game\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	"MMSystem.h"
+	<chrono>
+	<thread>
+	<ctime>
+	<cmath>
+	<stdio.h>
+
